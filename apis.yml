@@ -1,8 +1,26 @@
 aid: hyperfine-research
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hyperfine-research.png
 name: Hyperfine Research
-description: 'Hyperfine Research is a company surfaced as a portfolio company of gv and added to the API
-  Evangelist network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Hyperfine, Inc. (Nasdaq: HYPR) is a medical device company that created
+  the Swoop Portable MR Imaging System, the first FDA-cleared, AI-powered, portable
+  brain MRI. Swoop uses an ultra-low-field (0.064T) magnet — a fraction of the field
+  strength of conventional MRI — to deliver diagnostic brain imaging at the point
+  of care in hospitals, neurology clinics, ICUs, and pediatric settings without dedicated
+  shielded infrastructure. Its Optive AI software applies deep-learning image reconstruction
+  to reduce noise and blur. Hyperfine is headquartered in Guilford, Connecticut and
+  is backed by GV (Google Ventures). Hyperfine publishes no public developer API,
+  SDKs, or documentation surface.'
 url: https://raw.githubusercontent.com/api-evangelist/hyperfine-research/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Life Sciences
+- Medical Imaging
+- MRI
+- Medical Devices
+- Healthcare
+- Artificial Intelligence
+- Neurology
+- Point of Care
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +48,18 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/hyperfine-research-domain-security.yml
 - type: Website
   url: https://www.hyperfinemri.com
+- type: Support
+  url: https://www.hyperfinemri.com/request-support
+- type: PrivacyPolicy
+  url: https://www.hyperfinemri.com/privacy-notice
+- type: Blog
+  url: https://www.hyperfinemri.com/about/news
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

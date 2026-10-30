@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hyperfine Research is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting the enrichment pipeline.
+Hyperfine, Inc. (Nasdaq: HYPR) is a medical device company that created the Swoop Portable MR Imaging System, the first FDA-cleared, AI-powered, portable brain MRI. Swoop uses an ultra-low-field (0.064T) magnet — a fraction of the field strength of conventional MRI — to deliver diagnostic brain imaging at the point of care in hospitals, neurology clinics, ICUs, and pediatric settings without dedicated shielded infrastructure. Its Optive AI software applies deep-learning image reconstruction to reduce noise and blur. Hyperfine is headquartered in Guilford, Connecticut and is backed by GV (Google Ventures). Hyperfine publishes no public developer API, SDKs, or documentation surface.
 
-Backed by: gv — https://www.hyperfinemri.com
+**Areas:** Company · Life Sciences · Medical Imaging · MRI · Medical Devices · Healthcare · Artificial Intelligence · Neurology · Point of Care
+
+## Hyperfine Research on APIs.io
+
+Everything profiled for Hyperfine Research is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hyperfine-research/](https://apis.io/providers/hyperfine-research/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hyperfine Research Domain Security](https://apis.io/security/hyperfine-research/hyperfine-research-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hyperfinemri.com)
+- [Support](https://www.hyperfinemri.com/request-support)
+- [Blog](https://www.hyperfinemri.com/about/news)
+- [Privacy policy](https://www.hyperfinemri.com/privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 7.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hyperfine-research/](https://apis.io/providers/hyperfine-research/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hyperfine Research: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hyperfine-research/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
